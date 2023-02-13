@@ -8,11 +8,23 @@
     background-color: yellow;
 }
 
-.ms_debug .col-4 , .ms_debug .col-1 {
+.ms_debug .col-4 , .ms_debug .col-1 , .ms_debug .col-12 {
     background-color: red;
 }
 
 .ms_debug .ms_box {
     height: 50px;
     background-color: blue;
+}
+
+.ms_debug .ms_bigbox {
+    height: 300px;
+    width: 100%;
+    background-color: blueviolet;
+}
+
+.ms_debug #jumbotron {
+    background-color: #1abc9c;
+    height: 400px;
+    padding-top: 100px;
 }
