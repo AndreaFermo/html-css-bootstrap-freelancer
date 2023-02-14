@@ -1,7 +1,7 @@
 
 
 .ms_header {
-    height: 70px;
+    min-height: 60px;
     background-color: #2c3e50;
 }
 
