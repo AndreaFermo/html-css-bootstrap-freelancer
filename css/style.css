@@ -9,9 +9,6 @@
     color: white;
 }
 
-.ms_debug section {
-    margin-bottom: 30px;
-}
 
 .ms_debug .row {
     border: 3px solid black;
@@ -62,5 +59,4 @@ footer {
 
 .ms_starline {
     height: 2px;
-    background-color: white;
 }
