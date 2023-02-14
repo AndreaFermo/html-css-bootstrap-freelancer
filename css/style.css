@@ -42,9 +42,6 @@
     border: 2px dashed black;
 }
 
-.ms_debug #about {
-    background-color: #1abc9c;
-}
 
 .ms_debug #location {
     background-color: #3a546d;
@@ -59,4 +56,8 @@ footer {
 
 .ms_starline {
     height: 2px;
+}
+
+.ms_debug #about {
+    background-color: #1abc9c;
 }
